@@ -5,11 +5,13 @@ def main():
 
 def add_two(v1, v2):
     """do something
+    """
     p = v1 + v2
     print(p)
 
 def subtract_two(v1, v2):
     """do more
+    """
     p = v1 - v2
     print(p)
 
@@ -23,6 +25,6 @@ def multiply_two(v1, v2):
     print(p)
 
     return p
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
 
