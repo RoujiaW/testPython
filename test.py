@@ -10,7 +10,7 @@ def divide_three(v1):
     p = v1 / 3
     print(p)
 
-if __name__ = "__main__"
+if __name__ == "__main__"
     main()
 
 
